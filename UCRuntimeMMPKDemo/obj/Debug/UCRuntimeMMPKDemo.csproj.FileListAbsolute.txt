@@ -1,0 +1,200 @@
+C:\Git\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\UCRuntimeMMPKDemo.exe.config
+C:\Git\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\UCRuntimeMMPKDemo.exe
+C:\Git\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\UCRuntimeMMPKDemo.pdb
+C:\Git\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\Esri.ArcGISRuntime.dll
+C:\Git\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\Esri.ArcGISRuntime.xml
+C:\Git\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\ar\Esri.ArcGISRuntime.resources.dll
+C:\Git\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\cs\Esri.ArcGISRuntime.resources.dll
+C:\Git\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\da\Esri.ArcGISRuntime.resources.dll
+C:\Git\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\de\Esri.ArcGISRuntime.resources.dll
+C:\Git\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\el\Esri.ArcGISRuntime.resources.dll
+C:\Git\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\es\Esri.ArcGISRuntime.resources.dll
+C:\Git\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\et\Esri.ArcGISRuntime.resources.dll
+C:\Git\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\fi\Esri.ArcGISRuntime.resources.dll
+C:\Git\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\fr\Esri.ArcGISRuntime.resources.dll
+C:\Git\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\he\Esri.ArcGISRuntime.resources.dll
+C:\Git\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\hr\Esri.ArcGISRuntime.resources.dll
+C:\Git\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\id\Esri.ArcGISRuntime.resources.dll
+C:\Git\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\it\Esri.ArcGISRuntime.resources.dll
+C:\Git\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\ja\Esri.ArcGISRuntime.resources.dll
+C:\Git\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\ko\Esri.ArcGISRuntime.resources.dll
+C:\Git\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\lt\Esri.ArcGISRuntime.resources.dll
+C:\Git\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\lv\Esri.ArcGISRuntime.resources.dll
+C:\Git\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\nb-NO\Esri.ArcGISRuntime.resources.dll
+C:\Git\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\nl\Esri.ArcGISRuntime.resources.dll
+C:\Git\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\no\Esri.ArcGISRuntime.resources.dll
+C:\Git\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\pl\Esri.ArcGISRuntime.resources.dll
+C:\Git\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\pt-BR\Esri.ArcGISRuntime.resources.dll
+C:\Git\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\pt-PT\Esri.ArcGISRuntime.resources.dll
+C:\Git\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\ro\Esri.ArcGISRuntime.resources.dll
+C:\Git\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\ru\Esri.ArcGISRuntime.resources.dll
+C:\Git\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\sr\Esri.ArcGISRuntime.resources.dll
+C:\Git\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\sv\Esri.ArcGISRuntime.resources.dll
+C:\Git\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\th\Esri.ArcGISRuntime.resources.dll
+C:\Git\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\tr\Esri.ArcGISRuntime.resources.dll
+C:\Git\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\vi\Esri.ArcGISRuntime.resources.dll
+C:\Git\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\zh-CN\Esri.ArcGISRuntime.resources.dll
+C:\Git\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\zh-Hans\Esri.ArcGISRuntime.resources.dll
+C:\Git\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\zh-HK\Esri.ArcGISRuntime.resources.dll
+C:\Git\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\zh-TW\Esri.ArcGISRuntime.resources.dll
+C:\Git\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\obj\Debug\UCRuntimeMMPKDemo.csprojResolveAssemblyReference.cache
+C:\Git\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\obj\Debug\MainWindow.g.cs
+C:\Git\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\obj\Debug\App.g.cs
+C:\Git\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\obj\Debug\UCRuntimeMMPKDemo_MarkupCompile.cache
+C:\Git\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\obj\Debug\UCRuntimeMMPKDemo_MarkupCompile.lref
+C:\Git\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\obj\Debug\MainWindow.baml
+C:\Git\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\obj\Debug\UCRuntimeMMPKDemo.g.resources
+C:\Git\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\obj\Debug\UCRuntimeMMPKDemo.Properties.Resources.resources
+C:\Git\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\obj\Debug\UCRuntimeMMPKDemo.csproj.GenerateResource.Cache
+C:\Git\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\obj\Debug\UCRuntimeMMPKDemo.exe
+C:\Git\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\obj\Debug\UCRuntimeMMPKDemo.pdb
+E:\LaurenCDrive\Esri Events\UC 2017\Lauren&MelPresentation\Demos\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\UCRuntimeMMPKDemo.exe.config
+E:\LaurenCDrive\Esri Events\UC 2017\Lauren&MelPresentation\Demos\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\UCRuntimeMMPKDemo.exe
+E:\LaurenCDrive\Esri Events\UC 2017\Lauren&MelPresentation\Demos\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\UCRuntimeMMPKDemo.pdb
+E:\LaurenCDrive\Esri Events\UC 2017\Lauren&MelPresentation\Demos\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\Esri.ArcGISRuntime.dll
+E:\LaurenCDrive\Esri Events\UC 2017\Lauren&MelPresentation\Demos\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\Esri.ArcGISRuntime.xml
+E:\LaurenCDrive\Esri Events\UC 2017\Lauren&MelPresentation\Demos\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\ar\Esri.ArcGISRuntime.resources.dll
+E:\LaurenCDrive\Esri Events\UC 2017\Lauren&MelPresentation\Demos\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\cs\Esri.ArcGISRuntime.resources.dll
+E:\LaurenCDrive\Esri Events\UC 2017\Lauren&MelPresentation\Demos\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\da\Esri.ArcGISRuntime.resources.dll
+E:\LaurenCDrive\Esri Events\UC 2017\Lauren&MelPresentation\Demos\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\de\Esri.ArcGISRuntime.resources.dll
+E:\LaurenCDrive\Esri Events\UC 2017\Lauren&MelPresentation\Demos\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\el\Esri.ArcGISRuntime.resources.dll
+E:\LaurenCDrive\Esri Events\UC 2017\Lauren&MelPresentation\Demos\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\es\Esri.ArcGISRuntime.resources.dll
+E:\LaurenCDrive\Esri Events\UC 2017\Lauren&MelPresentation\Demos\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\et\Esri.ArcGISRuntime.resources.dll
+E:\LaurenCDrive\Esri Events\UC 2017\Lauren&MelPresentation\Demos\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\fi\Esri.ArcGISRuntime.resources.dll
+E:\LaurenCDrive\Esri Events\UC 2017\Lauren&MelPresentation\Demos\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\fr\Esri.ArcGISRuntime.resources.dll
+E:\LaurenCDrive\Esri Events\UC 2017\Lauren&MelPresentation\Demos\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\he\Esri.ArcGISRuntime.resources.dll
+E:\LaurenCDrive\Esri Events\UC 2017\Lauren&MelPresentation\Demos\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\hr\Esri.ArcGISRuntime.resources.dll
+E:\LaurenCDrive\Esri Events\UC 2017\Lauren&MelPresentation\Demos\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\id\Esri.ArcGISRuntime.resources.dll
+E:\LaurenCDrive\Esri Events\UC 2017\Lauren&MelPresentation\Demos\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\it\Esri.ArcGISRuntime.resources.dll
+E:\LaurenCDrive\Esri Events\UC 2017\Lauren&MelPresentation\Demos\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\ja\Esri.ArcGISRuntime.resources.dll
+E:\LaurenCDrive\Esri Events\UC 2017\Lauren&MelPresentation\Demos\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\ko\Esri.ArcGISRuntime.resources.dll
+E:\LaurenCDrive\Esri Events\UC 2017\Lauren&MelPresentation\Demos\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\lt\Esri.ArcGISRuntime.resources.dll
+E:\LaurenCDrive\Esri Events\UC 2017\Lauren&MelPresentation\Demos\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\lv\Esri.ArcGISRuntime.resources.dll
+E:\LaurenCDrive\Esri Events\UC 2017\Lauren&MelPresentation\Demos\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\nb-NO\Esri.ArcGISRuntime.resources.dll
+E:\LaurenCDrive\Esri Events\UC 2017\Lauren&MelPresentation\Demos\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\nl\Esri.ArcGISRuntime.resources.dll
+E:\LaurenCDrive\Esri Events\UC 2017\Lauren&MelPresentation\Demos\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\no\Esri.ArcGISRuntime.resources.dll
+E:\LaurenCDrive\Esri Events\UC 2017\Lauren&MelPresentation\Demos\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\pl\Esri.ArcGISRuntime.resources.dll
+E:\LaurenCDrive\Esri Events\UC 2017\Lauren&MelPresentation\Demos\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\pt-BR\Esri.ArcGISRuntime.resources.dll
+E:\LaurenCDrive\Esri Events\UC 2017\Lauren&MelPresentation\Demos\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\pt-PT\Esri.ArcGISRuntime.resources.dll
+E:\LaurenCDrive\Esri Events\UC 2017\Lauren&MelPresentation\Demos\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\ro\Esri.ArcGISRuntime.resources.dll
+E:\LaurenCDrive\Esri Events\UC 2017\Lauren&MelPresentation\Demos\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\ru\Esri.ArcGISRuntime.resources.dll
+E:\LaurenCDrive\Esri Events\UC 2017\Lauren&MelPresentation\Demos\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\sr\Esri.ArcGISRuntime.resources.dll
+E:\LaurenCDrive\Esri Events\UC 2017\Lauren&MelPresentation\Demos\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\sv\Esri.ArcGISRuntime.resources.dll
+E:\LaurenCDrive\Esri Events\UC 2017\Lauren&MelPresentation\Demos\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\th\Esri.ArcGISRuntime.resources.dll
+E:\LaurenCDrive\Esri Events\UC 2017\Lauren&MelPresentation\Demos\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\tr\Esri.ArcGISRuntime.resources.dll
+E:\LaurenCDrive\Esri Events\UC 2017\Lauren&MelPresentation\Demos\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\vi\Esri.ArcGISRuntime.resources.dll
+E:\LaurenCDrive\Esri Events\UC 2017\Lauren&MelPresentation\Demos\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\zh-CN\Esri.ArcGISRuntime.resources.dll
+E:\LaurenCDrive\Esri Events\UC 2017\Lauren&MelPresentation\Demos\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\zh-Hans\Esri.ArcGISRuntime.resources.dll
+E:\LaurenCDrive\Esri Events\UC 2017\Lauren&MelPresentation\Demos\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\zh-HK\Esri.ArcGISRuntime.resources.dll
+E:\LaurenCDrive\Esri Events\UC 2017\Lauren&MelPresentation\Demos\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\zh-TW\Esri.ArcGISRuntime.resources.dll
+E:\LaurenCDrive\Esri Events\UC 2017\Lauren&MelPresentation\Demos\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\obj\Debug\UCRuntimeMMPKDemo.csprojResolveAssemblyReference.cache
+E:\LaurenCDrive\Esri Events\UC 2017\Lauren&MelPresentation\Demos\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\obj\Debug\MainWindow.g.cs
+E:\LaurenCDrive\Esri Events\UC 2017\Lauren&MelPresentation\Demos\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\obj\Debug\App.g.cs
+E:\LaurenCDrive\Esri Events\UC 2017\Lauren&MelPresentation\Demos\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\obj\Debug\UCRuntimeMMPKDemo_MarkupCompile.cache
+E:\LaurenCDrive\Esri Events\UC 2017\Lauren&MelPresentation\Demos\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\obj\Debug\UCRuntimeMMPKDemo_MarkupCompile.lref
+E:\LaurenCDrive\Esri Events\UC 2017\Lauren&MelPresentation\Demos\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\obj\Debug\MainWindow.baml
+E:\LaurenCDrive\Esri Events\UC 2017\Lauren&MelPresentation\Demos\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\obj\Debug\UCRuntimeMMPKDemo.g.resources
+E:\LaurenCDrive\Esri Events\UC 2017\Lauren&MelPresentation\Demos\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\obj\Debug\UCRuntimeMMPKDemo.Properties.Resources.resources
+E:\LaurenCDrive\Esri Events\UC 2017\Lauren&MelPresentation\Demos\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\obj\Debug\UCRuntimeMMPKDemo.csproj.GenerateResource.Cache
+E:\LaurenCDrive\Esri Events\UC 2017\Lauren&MelPresentation\Demos\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\obj\Debug\UCRuntimeMMPKDemo.exe
+E:\LaurenCDrive\Esri Events\UC 2017\Lauren&MelPresentation\Demos\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\obj\Debug\UCRuntimeMMPKDemo.pdb
+D:\GitHub\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\UCRuntimeMMPKDemo.exe.config
+D:\GitHub\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\UCRuntimeMMPKDemo.exe
+D:\GitHub\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\UCRuntimeMMPKDemo.pdb
+D:\GitHub\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\Esri.ArcGISRuntime.dll
+D:\GitHub\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\Esri.ArcGISRuntime.xml
+D:\GitHub\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\ar\Esri.ArcGISRuntime.resources.dll
+D:\GitHub\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\cs\Esri.ArcGISRuntime.resources.dll
+D:\GitHub\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\da\Esri.ArcGISRuntime.resources.dll
+D:\GitHub\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\de\Esri.ArcGISRuntime.resources.dll
+D:\GitHub\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\el\Esri.ArcGISRuntime.resources.dll
+D:\GitHub\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\es\Esri.ArcGISRuntime.resources.dll
+D:\GitHub\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\et\Esri.ArcGISRuntime.resources.dll
+D:\GitHub\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\fi\Esri.ArcGISRuntime.resources.dll
+D:\GitHub\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\fr\Esri.ArcGISRuntime.resources.dll
+D:\GitHub\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\he\Esri.ArcGISRuntime.resources.dll
+D:\GitHub\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\hr\Esri.ArcGISRuntime.resources.dll
+D:\GitHub\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\id\Esri.ArcGISRuntime.resources.dll
+D:\GitHub\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\it\Esri.ArcGISRuntime.resources.dll
+D:\GitHub\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\ja\Esri.ArcGISRuntime.resources.dll
+D:\GitHub\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\ko\Esri.ArcGISRuntime.resources.dll
+D:\GitHub\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\lt\Esri.ArcGISRuntime.resources.dll
+D:\GitHub\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\lv\Esri.ArcGISRuntime.resources.dll
+D:\GitHub\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\nb-NO\Esri.ArcGISRuntime.resources.dll
+D:\GitHub\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\nl\Esri.ArcGISRuntime.resources.dll
+D:\GitHub\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\no\Esri.ArcGISRuntime.resources.dll
+D:\GitHub\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\pl\Esri.ArcGISRuntime.resources.dll
+D:\GitHub\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\pt-BR\Esri.ArcGISRuntime.resources.dll
+D:\GitHub\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\pt-PT\Esri.ArcGISRuntime.resources.dll
+D:\GitHub\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\ro\Esri.ArcGISRuntime.resources.dll
+D:\GitHub\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\ru\Esri.ArcGISRuntime.resources.dll
+D:\GitHub\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\sr\Esri.ArcGISRuntime.resources.dll
+D:\GitHub\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\sv\Esri.ArcGISRuntime.resources.dll
+D:\GitHub\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\th\Esri.ArcGISRuntime.resources.dll
+D:\GitHub\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\tr\Esri.ArcGISRuntime.resources.dll
+D:\GitHub\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\vi\Esri.ArcGISRuntime.resources.dll
+D:\GitHub\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\zh-CN\Esri.ArcGISRuntime.resources.dll
+D:\GitHub\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\zh-Hans\Esri.ArcGISRuntime.resources.dll
+D:\GitHub\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\zh-HK\Esri.ArcGISRuntime.resources.dll
+D:\GitHub\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\zh-TW\Esri.ArcGISRuntime.resources.dll
+D:\GitHub\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\obj\Debug\UCRuntimeMMPKDemo.csprojResolveAssemblyReference.cache
+D:\GitHub\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\obj\Debug\MainWindow.g.cs
+D:\GitHub\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\obj\Debug\App.g.cs
+D:\GitHub\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\obj\Debug\UCRuntimeMMPKDemo_MarkupCompile.cache
+D:\GitHub\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\obj\Debug\UCRuntimeMMPKDemo_MarkupCompile.lref
+D:\GitHub\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\obj\Debug\MainWindow.baml
+D:\GitHub\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\obj\Debug\UCRuntimeMMPKDemo.g.resources
+D:\GitHub\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\obj\Debug\UCRuntimeMMPKDemo.Properties.Resources.resources
+D:\GitHub\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\obj\Debug\UCRuntimeMMPKDemo.csproj.GenerateResource.Cache
+D:\GitHub\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\obj\Debug\UCRuntimeMMPKDemo.exe
+D:\GitHub\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\obj\Debug\UCRuntimeMMPKDemo.pdb
+C:\Users\laur8722\Desktop\UC Presentation\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\UCRuntimeMMPKDemo.exe.config
+C:\Users\laur8722\Desktop\UC Presentation\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\UCRuntimeMMPKDemo.exe
+C:\Users\laur8722\Desktop\UC Presentation\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\UCRuntimeMMPKDemo.pdb
+C:\Users\laur8722\Desktop\UC Presentation\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\Esri.ArcGISRuntime.dll
+C:\Users\laur8722\Desktop\UC Presentation\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\Esri.ArcGISRuntime.xml
+C:\Users\laur8722\Desktop\UC Presentation\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\ar\Esri.ArcGISRuntime.resources.dll
+C:\Users\laur8722\Desktop\UC Presentation\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\cs\Esri.ArcGISRuntime.resources.dll
+C:\Users\laur8722\Desktop\UC Presentation\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\da\Esri.ArcGISRuntime.resources.dll
+C:\Users\laur8722\Desktop\UC Presentation\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\de\Esri.ArcGISRuntime.resources.dll
+C:\Users\laur8722\Desktop\UC Presentation\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\el\Esri.ArcGISRuntime.resources.dll
+C:\Users\laur8722\Desktop\UC Presentation\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\es\Esri.ArcGISRuntime.resources.dll
+C:\Users\laur8722\Desktop\UC Presentation\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\et\Esri.ArcGISRuntime.resources.dll
+C:\Users\laur8722\Desktop\UC Presentation\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\fi\Esri.ArcGISRuntime.resources.dll
+C:\Users\laur8722\Desktop\UC Presentation\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\fr\Esri.ArcGISRuntime.resources.dll
+C:\Users\laur8722\Desktop\UC Presentation\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\he\Esri.ArcGISRuntime.resources.dll
+C:\Users\laur8722\Desktop\UC Presentation\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\hr\Esri.ArcGISRuntime.resources.dll
+C:\Users\laur8722\Desktop\UC Presentation\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\id\Esri.ArcGISRuntime.resources.dll
+C:\Users\laur8722\Desktop\UC Presentation\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\it\Esri.ArcGISRuntime.resources.dll
+C:\Users\laur8722\Desktop\UC Presentation\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\ja\Esri.ArcGISRuntime.resources.dll
+C:\Users\laur8722\Desktop\UC Presentation\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\ko\Esri.ArcGISRuntime.resources.dll
+C:\Users\laur8722\Desktop\UC Presentation\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\lt\Esri.ArcGISRuntime.resources.dll
+C:\Users\laur8722\Desktop\UC Presentation\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\lv\Esri.ArcGISRuntime.resources.dll
+C:\Users\laur8722\Desktop\UC Presentation\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\nb-NO\Esri.ArcGISRuntime.resources.dll
+C:\Users\laur8722\Desktop\UC Presentation\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\nl\Esri.ArcGISRuntime.resources.dll
+C:\Users\laur8722\Desktop\UC Presentation\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\no\Esri.ArcGISRuntime.resources.dll
+C:\Users\laur8722\Desktop\UC Presentation\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\pl\Esri.ArcGISRuntime.resources.dll
+C:\Users\laur8722\Desktop\UC Presentation\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\pt-BR\Esri.ArcGISRuntime.resources.dll
+C:\Users\laur8722\Desktop\UC Presentation\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\pt-PT\Esri.ArcGISRuntime.resources.dll
+C:\Users\laur8722\Desktop\UC Presentation\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\ro\Esri.ArcGISRuntime.resources.dll
+C:\Users\laur8722\Desktop\UC Presentation\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\ru\Esri.ArcGISRuntime.resources.dll
+C:\Users\laur8722\Desktop\UC Presentation\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\sr\Esri.ArcGISRuntime.resources.dll
+C:\Users\laur8722\Desktop\UC Presentation\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\sv\Esri.ArcGISRuntime.resources.dll
+C:\Users\laur8722\Desktop\UC Presentation\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\th\Esri.ArcGISRuntime.resources.dll
+C:\Users\laur8722\Desktop\UC Presentation\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\tr\Esri.ArcGISRuntime.resources.dll
+C:\Users\laur8722\Desktop\UC Presentation\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\vi\Esri.ArcGISRuntime.resources.dll
+C:\Users\laur8722\Desktop\UC Presentation\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\zh-CN\Esri.ArcGISRuntime.resources.dll
+C:\Users\laur8722\Desktop\UC Presentation\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\zh-Hans\Esri.ArcGISRuntime.resources.dll
+C:\Users\laur8722\Desktop\UC Presentation\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\zh-HK\Esri.ArcGISRuntime.resources.dll
+C:\Users\laur8722\Desktop\UC Presentation\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\bin\Debug\zh-TW\Esri.ArcGISRuntime.resources.dll
+C:\Users\laur8722\Desktop\UC Presentation\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\obj\Debug\UCRuntimeMMPKDemo.csprojResolveAssemblyReference.cache
+C:\Users\laur8722\Desktop\UC Presentation\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\obj\Debug\MainWindow.g.cs
+C:\Users\laur8722\Desktop\UC Presentation\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\obj\Debug\App.g.cs
+C:\Users\laur8722\Desktop\UC Presentation\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\obj\Debug\UCRuntimeMMPKDemo_MarkupCompile.cache
+C:\Users\laur8722\Desktop\UC Presentation\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\obj\Debug\UCRuntimeMMPKDemo_MarkupCompile.lref
+C:\Users\laur8722\Desktop\UC Presentation\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\obj\Debug\MainWindow.baml
+C:\Users\laur8722\Desktop\UC Presentation\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\obj\Debug\UCRuntimeMMPKDemo.g.resources
+C:\Users\laur8722\Desktop\UC Presentation\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\obj\Debug\UCRuntimeMMPKDemo.Properties.Resources.resources
+C:\Users\laur8722\Desktop\UC Presentation\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\obj\Debug\UCRuntimeMMPKDemo.csproj.GenerateResource.Cache
+C:\Users\laur8722\Desktop\UC Presentation\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\obj\Debug\UCRuntimeMMPKDemo.exe
+C:\Users\laur8722\Desktop\UC Presentation\UCRuntimeMMPKDemo\UCRuntimeMMPKDemo\obj\Debug\UCRuntimeMMPKDemo.pdb
